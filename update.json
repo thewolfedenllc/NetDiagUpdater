@@ -1,9 +1,9 @@
 {
-  "version": "5.2.0",
-  "changes": "- Version 5.2.0 tester build.\n- Updates tab now says Update Pending when a newer version has no download link.\n- In-app update: the Updates tab can download and install this build.\n- Licence screen on first start: send the machine ID to get a licence file.\n- Sweep limit presets in Settings: Low 256, Medium 1,024, High 4,096, Extreme 65,536, or Custom.\n- Stress history is capped at the newest 300 rows and the file is trimmed to about 1 MB.",
-  "url": "https://github.com/thewolfedenllc/NetDiagUpdater/releases/download/v5.2.0/NetDiagEssentials_Setup_5.2.0.exe",
-  "sha256": "9a1ded19ab1dbfe2362aa7bdcfb4ab97fcf7a58de98762e5e9938cba4a575d16",
-  "size": 25849745,
+  "version": "5.3.0",
+  "changes": "- Version 5.3.0 tester build.\n- Updates tab no longer shows the update address.\n- The Open download page button is gone; Download and install is the only action.\n- Update Pending is shown when a newer version has no download link.\n- Licence screen on first start: send the machine ID to get a licence file.\n- Sweep limit presets in Settings: Low 256, Medium 1,024, High 4,096, Extreme 65,536, or Custom.\n- Stress history is capped at the newest 300 rows and the file is trimmed to about 1 MB.",
+  "url": "https://github.com/thewolfedenllc/NetDiagUpdater/releases/download/v5.3.0/NetDiagEssentials_Setup_5.3.0.exe",
+  "sha256": "4d69a337ab806875388f03d96eff650c0c5b662e63e9eac80824fbeb2bec7c28",
+  "size": 25842600,
   "published": "2026-11-19",
-  "sig": "CFrSN86VAoeBXU1we0a9k5thy6tcnAGwbBMyEO5EncmEO8mZWyox5KtoavYJSAN+LoycF85C/do6SpBaptnICg=="
+  "sig": "2KKj2K02jnEbgX8nNJn47K1HAy0kXR9GvO5p8gwjyocOUziMdjl5Fw6Fy7LamKx+XOBDGJoyraL7DV3opSkEAg=="
 }
