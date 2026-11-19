@@ -1,0 +1,9 @@
+{
+  "version": "5.0.0",
+  "notes": "- First tester build.\n- Licence screen on first start: send the machine ID to get a licence file.\n- Sweep limit presets in Settings: Low 256, Medium 1,024, High 4,096, Extreme 65,536, or Custom.\n- Settings shows whether your network fits the chosen sweep limit, with a one-click fix.\n- Updates tab checks this feed at startup and can download and install a newer build.\n- Stress history is capped at the newest 300 rows and the file is trimmed to about 1 MB.",
+  "url": "https://github.com/thewolfedenllc/NetDiagUpdater/releases/download/v5.0.0/NetDiagEssentials_Setup_5.0.0.exe",
+  "sha256": "3cd80b2e2eb74112f6051dcc91d0f5c1a7e9ba3647d81d147bf428024b7fc52c",
+  "size": 25845238,
+  "published": "2026-11-19",
+  "sig": "ZokhkBHRmC4J9mD1nvYt5IgopcGdGwN0c1urHBhXMslJB6HFXn9do5rjonJ6WaXZEPfcsWWVMk+claeMZUdcBA=="
+}
