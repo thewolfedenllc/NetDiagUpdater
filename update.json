@@ -1,9 +1,9 @@
 {
-  "version": "5.3.3",
-  "changes": "- Version 5.3.3 tester build.\n- Fixed: the update helper pointed at a python.exe that does not exist in the installed build, so Download and install failed with WinError 2.\n- The app now relaunches itself after installing an update.\n- Retiring an older release no longer removes the current version's download link.\n- Retired releases are listed separately and no longer fill the release dropdown.\n- Reload releases no longer crashes when clicked twice.",
-  "url": "https://github.com/thewolfedenllc/NetDiagUpdater/releases/download/v5.3.3/NetDiagEssentials_Setup_5.3.3.exe",
-  "sha256": "82fcf8d59b4ead904244c3e36395eb89fcbf99c27ac3d3d6127a40abff3e5646",
-  "size": 25847815,
-  "published": "2026-11-19",
-  "sig": "Oi3qxPDXQKoUFVEDkBKQoTZmsPvI8lPYkDpF6j+f48MKVj8wslpxRW6fHYgP8iN9rw+NTtMoZOuENcxs7LX2DQ=="
+  "version": "5.3.4",
+  "changes": "The app now asks Windows for its own program path before starting the update helper, so an update started from the installed copy can find the program to relaunch. A failed start now names the program path and the installer path it tried.",
+  "url": "https://github.com/thewolfedenllc/NetDiagUpdater/releases/download/v5.3.4/NetDiagEssentials_Setup_5.3.4.exe",
+  "sha256": "95369a7768fa74bff972083131d126f3288a5c410b41d9577e26ae8af5bf0720",
+  "size": 25858001,
+  "published": "2026-11-19T08:35:00Z",
+  "sig": "t8+8zRLmWS/e4Zt4qBhfC5Byg/AX/Ts2XXu2xA+0LnkCHj/6uGBSUJh6NiGF1JXu0Amgu2AoUJB853CWmBMdBQ=="
 }
