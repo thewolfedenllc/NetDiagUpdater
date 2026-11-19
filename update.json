@@ -1,9 +1,6 @@
 {
   "version": "5.3.1",
   "changes": "- Version 5.3.1 tester build.\n- The app now relaunches itself after installing an update.\n- Retiring an older release no longer removes the current version's download link.\n- Updates tab no longer shows the update address, and Open download page is gone.\n- Update Pending is shown when a newer version has no download link.\n- Licence screen on first start: send the machine ID to get a licence file.\n- Sweep limit presets in Settings: Low 256, Medium 1,024, High 4,096, Extreme 65,536, or Custom.",
-  "url": "https://github.com/thewolfedenllc/NetDiagUpdater/releases/download/v5.3.1/NetDiagEssentials_Setup_5.3.1.exe",
-  "sha256": "f626ca43e9d2b173a21b958777543444d8fdc6dfcb6e82ae736276cc8101fe60",
-  "size": 25843714,
   "published": "2026-11-19",
-  "sig": "5mEzRYS2WYs8hlyKyHCDZoLcS3oS7u34xKLXCRoQhUSKn5trm0PVnTT/onKQ3qGdAPq5uz55C7CulXsEw2b9BA=="
+  "sig": "kYIIJfG/PAG1v9b84eejivkHYaZY8H4NlT1f5Vne97jxsUfeEKgHb29ezyOyXUIdX+iu9P5B0LiaWMMpUSPXAA=="
 }
