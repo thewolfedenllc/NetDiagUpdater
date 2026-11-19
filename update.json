@@ -1,6 +1,6 @@
 {
   "version": "5.0.0",
-  "notes": "- First tester build.\n- Licence screen on first start: send the machine ID to get a licence file.\n- Sweep limit presets in Settings: Low 256, Medium 1,024, High 4,096, Extreme 65,536, or Custom.\n- Settings shows whether your network fits the chosen sweep limit, with a one-click fix.\n- Updates tab checks this feed at startup and tells you when a newer build exists.\n- Stress history is capped at the newest 300 rows and the file is trimmed to about 1 MB.",
+  "changes": "- First tester build.\n- Licence screen on first start: send the machine ID to get a licence file.\n- Sweep limit presets in Settings: Low 256, Medium 1,024, High 4,096, Extreme 65,536, or Custom.\n- Settings shows whether your network fits the chosen sweep limit, with a one-click fix.\n- Updates tab checks this feed at startup and tells you when a newer build exists.\n- Stress history is capped at the newest 300 rows and the file is trimmed to about 1 MB.",
   "published": "2026-11-19",
-  "sig": "iNi64iWRKM4PQEekBe63GdF3KH3yXXyt3xJfMh4ySI5pDlVGkBByowIYnW5FJO0w9uDtF7Vb/DKKtefx5hq7AQ=="
+  "sig": "eCR0ErAmDlMuAD5ba2en+OARmag0+It86H6I/c+28CdnGQFW7qXfP+OtPNmIB9dwtkAKpLBY/xAfvo5omTDkAQ=="
 }
