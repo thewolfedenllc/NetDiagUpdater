@@ -1,9 +1,6 @@
 {
   "version": "5.3.5",
   "changes": "Test build for the in-app update. The app now asks Windows for its own program path before starting the update helper, so an update started from the installed copy can find the program to relaunch. A failed start now names the program path and the installer path it tried.",
-  "url": "https://github.com/thewolfedenllc/NetDiagUpdater/releases/download/v5.3.5/NetDiagEssentials_Setup_5.3.5.exe",
-  "sha256": "86917a32edb26a2806b1198318ff71fdaf608caf3ed1302dce7638eb6f5d1645",
-  "size": 25849286,
   "published": "2026-11-19T08:38:00Z",
-  "sig": "MlI7fHceYWzkivTG3jLzBtHi5ARZlQ6PM5gjXQrXxPoksurEyBmL9zwZ13/LEwIxqcE69UEPKlQqB1HR/tcqCQ=="
+  "sig": "AfDDlPH6SN/PhiDutG22KkFrnNrjxpGLzwLd5JzBqNnCJ+eb6H3FTLTPcu8UQ3+Mzx756QBP2euj3IxnGh5jCw=="
 }
