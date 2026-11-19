@@ -1,9 +1,6 @@
 {
   "version": "5.3.7",
   "changes": "Test build for the in-app update. After the installer finishes, the app now reopens itself using a small script outside the install folder, so the installer can no longer close the part that relaunches it.",
-  "url": "https://github.com/thewolfedenllc/NetDiagUpdater/releases/download/v5.3.7/NetDiagEssentials_Setup_5.3.7.exe",
-  "sha256": "3247da18abc6e4ed48f8ee1f5e2f4122c3eec688a5c324211edc2a0499c5ae26",
-  "size": 25854135,
   "published": "2026-11-19T08:55:00Z",
-  "sig": "K4LXCdGbMKTiwq55aqem8veYj8hHp3Zk089Ikq95o3S0QF9RytX1FUvG6vptKjSH/N54jtyNw2hRWJ3d60AVCw=="
+  "sig": "yaSL09b7VNmov/LhfE0EnjUTbWkMP+gJhuFy0gCljZ0qaJsLGzmUd91hAX2DR3lZ6mljs7aPHTV0TR8ghD5UAw=="
 }
